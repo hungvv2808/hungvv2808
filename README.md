@@ -6,10 +6,10 @@
 
 - My skills include:
 
-```shell
-    ✅ VueJS
-    ✅ ReactJS
-    ✅ Javascript
-    ✅ HTML/CSS
-    ✅ Sass/Less
-```
+  | _Skill list_ |            |
+  | :----------: | :--------- |
+  |      ✅      | VueJS      |
+  |      ✅      | ReactJS    |
+  |      ✅      | Javascript |
+  |      ✅      | HTML/CSS   |
+  |      ✅      | Sass/Less  |
