@@ -4,7 +4,7 @@
 
 - Welcome to my Github, I'm Parker - a Frontend developer.
 
-- My skills include:
+- My skills include in:
 
   | _Skill list_ |            |
   | :----------: | :--------- |
